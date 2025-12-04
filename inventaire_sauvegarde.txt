@@ -1,0 +1,7 @@
+7|Gel Hydroalcoolique|Elimine 99.99% virus.|Consommable|20|5.00|0|Brule les tentacules.
+6|Scalpel Photonique|Instrument precision solaire.|Outil|2|120.00|0|
+5|WD-40|Restaure 100% equipement.|Consommable|20|10.00|0|Efficace en toute situation.
+4|Serum de Vitalite Beta|Reactif experimental.|Medicament|5|25.00|0|
+3|Pansement Ecoprix|Reduit degats superficiels.|Pansement|342|1.00|0|1% chance empoisonne.
+2|Duct tape|Repare equipement 50%. Colle aux doigts.|Consommable|20|10.00|0|
+1|Potion de Soin Ultime|Restaure 100% PV. Petillante.|Potion|3|300.00|0|Mythique, souvent falsifie.
